@@ -1,0 +1,2 @@
+/*TMODJS:{"version":2,"md5":"ee70148fafeda236c7fdf0c7e4f6fd06"}*/
+template("userlist",function(a){"use strict";var b=this,c=(b.$helpers,b.$each),d=a.data,e=(a.val,a.index,b.$escape),f="";return c(d,function(a){f+=" <p> ",f+=e(a.id),f+=" <hr> ",f+=e(a.course_name),f+=" </p> "}),f+=" ",new String(f)});

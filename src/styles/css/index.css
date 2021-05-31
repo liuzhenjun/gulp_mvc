@@ -1,0 +1,6 @@
+.box {
+  color: yellow;
+  display: flexbox;
+  border: 1px;
+  margin: 3px;
+  background: #c87; }

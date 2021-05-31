@@ -1,0 +1,9 @@
+$color: yellow;
+
+.box {
+	color: $color;
+	display: flexbox;
+	border: 1px;
+	margin: 3px;
+	background: #c87;
+}

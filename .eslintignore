@@ -1,0 +1,5 @@
+*.html
+dist
+node_modules
+lib
+src/js/template
